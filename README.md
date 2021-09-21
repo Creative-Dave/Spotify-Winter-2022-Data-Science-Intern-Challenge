@@ -38,7 +38,7 @@ For this question you’ll need to use SQL. Follow this link (https://www.w3scho
 ## Answers: 
 
 1. How many orders were shipped by Speedy Express in total? 
-       54\
+       \54
 
 
 2. What is the last name of the employee with the most orders?
